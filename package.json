@@ -1,6 +1,6 @@
 {
   "name": "formattednum",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "红涨绿跌数字颜色展示，包括金额是否显示逗号，是否进行百分比",
   "main": "dist/index.js",
   "scripts": {
@@ -13,6 +13,7 @@
     "react": "^16.3.0",
     "react-dom": "^16.3.0"
   },
+  "homepage": "https://github.com/ShadowWalker627/FormattedNum",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",
